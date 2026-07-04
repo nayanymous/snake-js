@@ -2,8 +2,8 @@
 
 A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — rendered on HTML5 Canvas. No frameworks, no dependencies.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://rakibulislamnayan.github.io/snake-js)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rakibulislamnayan/snake-js)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge)](https://nayanymous.github.io/snake-js)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/nayanymous/snake-js)
 
 ---
 
@@ -26,7 +26,7 @@ A fully-featured Snake game built with vanilla HTML, CSS, and JavaScript — ren
 
 ## 🚀 Live Demo
 
-👉 [Play it here](https://rakibulislamnayan.github.io/snake-js)
+👉 [Play it here](https://nayanymous.github.io/snake-js)
 
 ---
 
@@ -90,7 +90,7 @@ snake-js/
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/rakibulislamnayan/snake-js.git
+git clone https://github.com/nayanymous/snake-js.git
 cd snake-js
 open index.html
 ```
@@ -102,7 +102,7 @@ open index.html
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)`
-4. Live at `https://rakibulislamnayan.github.io/snake-js`
+4. Live at `https://nayanymous.github.io/snake-js`
 
 ---
 
@@ -118,7 +118,7 @@ open index.html
 
 ## 📬 Connect
 
-Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/rakibul-islam-nayan/) · [GitHub](https://github.com/rakibulislamnayan)
+Made by **Md. Rakibul Islam Nayan** · [LinkedIn](https://www.linkedin.com/in/rakibul-islam-nayan/) · [GitHub](https://github.com/nayanymous)
 
 ---
 
